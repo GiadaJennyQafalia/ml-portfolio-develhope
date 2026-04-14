@@ -34,6 +34,7 @@ and translate findings into insights that are meaningful for people and organiza
 
 ## Repository Structure
 
+```
 ml-portfolio-develhope/
 ├── notebooks/
 │   ├── 01_foundations/
@@ -49,8 +50,7 @@ ml-portfolio-develhope/
 │       └── 09_ann.ipynb
 ├── data/
 └── images/
-
----
+```
 
 ## Notebooks Overview
 
